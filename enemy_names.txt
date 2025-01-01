@@ -1,0 +1,88 @@
+    Hollows
+    Torch Hollows
+    Hollow Warrior
+    Undead Assassin
+    Undead Soldier (Sword)
+    Undead Soldier (Spear)
+    Balder Knight
+    Undead Knight Archer
+    Engorged Hollow
+    Infested Barbarian (Club)
+    Infested Barbarian (Boulder)
+    Undead Crystal Soldier
+    Undead Crystal Archer
+    Crystal Knight
+    Undead Attack Dog
+    Flaming Attack Dog
+    Infested Ghoul
+    Darkwraith Knight
+    Necromancer
+    Great Stone Knight
+    Giant
+    Crystal Golem
+    Sentinel
+    Royal Sentinel
+    Treant Gardener
+    Stone Guardian
+    Wild Dog
+    Oolacile Resident
+    Oolacile Sorceress
+    Chained Prisoner
+    Giant Humanity
+    Skeleton
+    Giant Skeleton
+    Giant Skeleton Archer
+    Skeleton Beast
+    Wheel Skeleton
+    Bone Tower
+    Skeleton Baby
+    Bat Wing Demon (Imps)
+    Minor Taurus Demon
+    Minor Capra Demon
+    Stone Demon
+    Crow Demon (Harpies)
+    Bounding Demon of Izalith
+    Ghost
+    Banshee
+    Phalanx
+    Wisp
+    Vile Maggot
+    Egg Carrier
+    Chaos Eater
+    Silver Knight
+    Painting Guardian
+    Clan of Forest Protectors (Cleric, Sorcerer, Thief, Knights, Bandit)
+    Pisaca
+    Pinwheel Servant
+    Basilisk
+    Tree Lizard
+    Ents
+    Frog-Ray
+    Small Mushroom People
+    Large Mushroom People
+    Man-Eater Shell
+    Small Rats
+    Large Rats
+    Snow Rat
+    Drake
+    Giant Leech
+    Giant Mosquito
+    Cragspider
+    Chaos Bug
+    Man Serpent
+    Serpent Mage
+    Burrowing Rockworm
+    Slime
+    Minor Moonlight Butterfly
+    Crystal Lizard
+    Parasitic Wall Hugger
+    Oscar of Astora (Hollowed)
+    Black Knight
+    Blowdart Sniper
+    Darkmoon Soldiers
+    Mass of Souls
+    Possessed Tree
+    Giant Cat
+    Mimic
+    The Channeler
+    Vagrants
